@@ -5,6 +5,6 @@
     "orientation": "portrait",
     "start_url": "/ratio",
     "background_color": "#F00",
-    "theme_color": "#F00",
+    "theme_color": "#0F0",
     "display": "standalone"
 }
