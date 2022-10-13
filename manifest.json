@@ -4,7 +4,7 @@
     "description": "vikas cha portfolio . Having experiences as frantend developer.",
     "orientation": "portrait",
     "start_url": "/ratio",
-    "background_color": "#F00",
-    "theme_color": "#0F0",
+    "background_color": "#0F0",
+    "theme_color": "#F00",
     "display": "standalone"
 }
