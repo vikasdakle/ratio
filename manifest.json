@@ -1,0 +1,10 @@
+{
+    "name": "viki ratio",
+    "short_name": "ratio",
+    "description": "vikas cha portfolio . Having experiences as frantend developer.",
+    "orientation": "portrait",
+    "start_url": "/ratio",
+    "background_color": "#F00",
+    "theme_color": "#F00",
+    "display": "standalone"
+}
