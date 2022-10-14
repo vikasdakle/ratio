@@ -20,6 +20,19 @@
                     "sizes": "192x192"
                 }
             ]
+        },
+        {
+            "name": "learn contact us",
+            "short_name": "contact",
+            "description": "lorem ipsom 2",
+            "url": "./contact.html",
+            "icons": [
+                {
+                    "src": "./assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
         }
     ],
     "icons": [
