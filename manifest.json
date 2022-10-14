@@ -15,7 +15,7 @@
             "url": "./about.html",
             "icons": [
                 {
-                    "src": "./assets/images/SKILLHUB-192-192",
+                    "src": "./assets/images/SKILLHUB-192-192.png",
                     "type": "image/png",
                     "sizes": "192x192"
                 }
@@ -24,22 +24,22 @@
     ],
     "icons": [
         {
-            "src": "./assets/images/SKILLHUB-48-48",
+            "src": "./assets/images/SKILLHUB-48-48.png",
             "type": "image/png",
             "sizes": "48x48"
         },
         {
-            "src": "./assets/images/SKILLHUB-72-72",
+            "src": "./assets/images/SKILLHUB-72-72.png",
             "type": "image/png",
             "sizes": "72x72"
         },
         {
-            "src": "./assets/images/SKILLHUB-144-144",
+            "src": "./assets/images/SKILLHUB-144-144.png",
             "type": "image/png",
             "sizes": "144x144"
         },
         {
-            "src": "./assets/images/SKILLHUB-192-192",
+            "src": "./assets/images/SKILLHUB-192-192.png",
             "type": "image/png",
             "sizes": "192x192"
         }
