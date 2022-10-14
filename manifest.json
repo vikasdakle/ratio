@@ -6,5 +6,42 @@
     "start_url": "/ratio",
     "background_color": "#0F0",
     "theme_color": "#00F",
-    "display": "standalone"
+    "display": "standalone",
+    "shortcuts": [
+        {
+            "name": "learn about us",
+            "short_name": "About",
+            "description": "lorem ipsom",
+            "url": "./about.html",
+            "icons": [
+                {
+                    "src": "./assets/images/SKILLHUB-192-192",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
+    "icons": [
+        {
+            "src": "./assets/images/SKILLHUB-48-48",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-72-72",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-144-144",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-192-192",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
 }
